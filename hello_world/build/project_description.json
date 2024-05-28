@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "hello_world",
-    "project_version":    "d39d638",
+    "project_version":    "80b4c65-dirty",
     "project_path":       "/Users/eddie/Coding-Workspace/ESP32/esp32-s3-workspace/hello_world",
     "idf_path":           "/Users/eddie/Coding-Workspace/ESP32/esp-idf",
     "build_dir":          "/Users/eddie/Coding-Workspace/ESP32/esp32-s3-workspace/hello_world/build",

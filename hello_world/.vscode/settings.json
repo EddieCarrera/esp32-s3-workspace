@@ -5,5 +5,10 @@
   "idf.adapterTargetName": "esp32s3",
   "idf.openOcdConfigs": [
     "board/esp32s3-builtin.cfg"
-  ]
+  ],
+  "idf.espIdfPath": "/Users/eddie/Coding-Workspace/ESP32/esp-idf",
+  "files.associations": {
+    "cstdio": "c",
+    "format": "c"
+  }
 }
